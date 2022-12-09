@@ -1,0 +1,73 @@
+.contact_form {
+    background: #114c7d;
+    padding: 45px;
+}
+.contact {
+	background: #2f2e2e;
+	padding: 60px 0px 70px 0px;
+}
+
+.contact .titlepage {
+	text-align: center;
+}
+
+.contact .titlepage h3 {
+	padding: 0px 0px 6px 0px;
+	font-weight: bold;
+	color: #fff;
+	line-height: 46px;
+	border-bottom: #fff solid 1px;
+	font-size: 40px;
+    width: 229px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.contact .contact {
+	background: #fff;
+	width: 100%;
+	height: 500px;
+	padding: 30px;
+    margin: 0 auto;
+}
+
+.contact .contact .contactus {
+	width: 95%;
+	border: #b1b0b0 solid 1px;
+	padding: 12px 19px;
+	margin-bottom: 26px;
+	border-radius: inherit;
+	color: #000;
+}
+
+/* .contact .contact .textarea {
+	margin-bottom: 25px;
+	padding: 15px 19px;
+	color: #000 !important;
+	width: 93%;
+	border: #b1b0b0 solid 1px;
+	border-radius: inherit;
+} */
+
+.contact .contact .send {
+	font-size: 16px;
+	border: #000 solid 1px;
+	padding: 10px 50px;
+	background-color: #000;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	align-items: center;
+	flex-wrap: wrap;
+    transition: ease-in all 0.5s;
+
+}
+
+.contact .contact .send:hover {
+	background-color: #fc4311;
+	border: #fc4311 solid 1px;
+	color: #fff;
+    border-radius: 25px;
+    transition: ease-in all 0.5s;
+}
